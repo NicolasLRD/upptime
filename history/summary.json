@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 66,
-    "timeWeek": 84,
-    "timeMonth": 109,
+    "timeDay": 63,
+    "timeWeek": 81,
+    "timeMonth": 107,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2021-12-14": 0
+      "2021-12-14": 16
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "test-for-head",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 34,
     "timeDay": 8,
-    "timeWeek": 20,
-    "timeMonth": 44,
+    "timeWeek": 19,
+    "timeMonth": 43,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2021-12-14": 0
+      "2021-12-14": 16
     }
   },
   {
@@ -117,7 +117,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-14": 415,
+      "2021-12-14": 431,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
       "2021-12-11": 1440,
