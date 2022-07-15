@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 73,
-    "timeWeek": 85,
-    "timeMonth": 85,
+    "timeDay": 86,
+    "timeWeek": 87,
+    "timeMonth": 86,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2021-12-14": 16
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 618,
-    "timeWeek": 272,
-    "timeMonth": 240,
+    "timeDay": 126,
+    "timeWeek": 265,
+    "timeMonth": 237,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2021-07-16": 21
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.75%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.87%",
-    "time": 347,
-    "timeDay": 441,
-    "timeWeek": 329,
-    "timeMonth": 270,
-    "timeYear": 337,
+    "time": 346,
+    "timeDay": 240,
+    "timeWeek": 318,
+    "timeMonth": 266,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2022-07-08": 529,
       "2022-06-15": 36,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 14,
-    "timeWeek": 20,
+    "timeDay": 20,
+    "timeWeek": 21,
     "timeMonth": 20,
     "timeYear": 32,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "23.91%",
+    "uptime": "23.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -118,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-14": 112,
+      "2022-07-15": 117,
+      "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
@@ -481,8 +482,7 @@
       "2021-07-19": 1440,
       "2021-07-18": 1440,
       "2021-07-17": 1440,
-      "2021-07-16": 1440,
-      "2021-07-15": 1440
+      "2021-07-16": 1440
     }
   }
 ]
