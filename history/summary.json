@@ -13,7 +13,7 @@
     "time": 96,
     "timeDay": 0,
     "timeWeek": 128,
-    "timeMonth": 104,
+    "timeMonth": 106,
     "timeYear": 96,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 224,
     "timeDay": 0,
     "timeWeek": 228,
-    "timeMonth": 241,
+    "timeMonth": 243,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2023-02-11": 37,
@@ -43,19 +43,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.86%",
     "time": 321,
-    "timeDay": 0,
-    "timeWeek": 247,
-    "timeMonth": 286,
+    "timeDay": 426,
+    "timeWeek": 267,
+    "timeMonth": 285,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2023-03-27": 0,
+      "2023-03-28": 70,
+      "2023-03-27": 42,
       "2023-02-12": 16,
       "2022-11-23": 18,
       "2022-10-28": 15,
@@ -105,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "17.51%",
+    "uptime": "17.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -116,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 1398,
+      "2023-03-28": 70,
+      "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
@@ -479,8 +481,7 @@
       "2022-04-01": 1440,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
-      "2022-03-29": 1440,
-      "2022-03-28": 1440
+      "2022-03-29": 1440
     }
   }
 ]
