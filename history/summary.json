@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 108,
-    "timeDay": 73,
-    "timeWeek": 152,
-    "timeMonth": 150,
+    "time": 109,
+    "timeDay": 183,
+    "timeWeek": 156,
+    "timeMonth": 153,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 26,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 66,
-    "timeWeek": 179,
-    "timeMonth": 235,
-    "timeYear": 217,
+    "timeDay": 374,
+    "timeWeek": 191,
+    "timeMonth": 220,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2023-09-11": 17
     }
@@ -49,17 +49,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.89%",
     "time": 345,
-    "timeDay": 207,
-    "timeWeek": 281,
-    "timeMonth": 272,
-    "timeYear": 349,
+    "timeDay": 270,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2024-05-13": 9,
       "2024-04-26": 25,
       "2024-04-23": 18,
       "2024-01-15": 18,
@@ -104,10 +103,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 27,
-    "timeDay": 24,
+    "timeDay": 101,
     "timeWeek": 76,
-    "timeMonth": 57,
-    "timeYear": 27,
+    "timeMonth": 60,
+    "timeYear": 28,
     "dailyMinutesDown": {
       "2024-05-01": 41
     }
@@ -129,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-13": 1138,
+      "2024-05-14": 64,
+      "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -492,8 +492,7 @@
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
-      "2023-05-16": 1440,
-      "2023-05-15": 1440
+      "2023-05-16": 1440
     }
   }
 ]
