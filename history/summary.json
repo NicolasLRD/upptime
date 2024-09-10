@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 87,
-    "timeWeek": 95,
-    "timeMonth": 100,
+    "timeDay": 63,
+    "timeWeek": 91,
+    "timeMonth": 99,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-07-29": 29,
@@ -33,13 +33,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 404,
-    "timeWeek": 244,
-    "timeMonth": 238,
-    "timeYear": 220,
-    "dailyMinutesDown": {
-      "2023-09-11": 17
-    }
+    "timeDay": 370,
+    "timeWeek": 265,
+    "timeMonth": 243,
+    "timeYear": 221,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -48,17 +46,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.90%",
-    "time": 337,
-    "timeDay": 239,
-    "timeWeek": 221,
-    "timeMonth": 302,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.91%",
+    "time": 338,
+    "timeDay": 398,
+    "timeWeek": 254,
+    "timeMonth": 306,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2024-09-09": 9,
       "2024-08-07": 15,
       "2024-08-01": 15,
       "2024-06-25": 15,
@@ -104,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 28,
-    "timeDay": 21,
-    "timeWeek": 27,
-    "timeMonth": 29,
+    "timeDay": 9,
+    "timeWeek": 25,
+    "timeMonth": 28,
     "timeYear": 29,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -129,7 +126,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 1171,
+      "2024-09-10": 75,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -492,8 +490,7 @@
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
-      "2023-09-12": 1440,
-      "2023-09-11": 1440
+      "2023-09-12": 1440
     }
   }
 ]
