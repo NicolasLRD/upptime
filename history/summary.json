@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 68,
-    "timeWeek": 104,
-    "timeMonth": 105,
+    "timeDay": 79,
+    "timeWeek": 105,
+    "timeMonth": 104,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-07-29": 29
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 177,
-    "timeWeek": 203,
-    "timeMonth": 191,
-    "timeYear": 220,
+    "timeDay": 107,
+    "timeWeek": 212,
+    "timeMonth": 182,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 304,
-    "timeDay": 419,
-    "timeWeek": 337,
-    "timeMonth": 324,
+    "time": 305,
+    "timeDay": 450,
+    "timeWeek": 336,
+    "timeMonth": 334,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2024-08-07": 15,
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 31,
-    "timeDay": 8,
-    "timeWeek": 21,
+    "timeDay": 14,
+    "timeWeek": 22,
     "timeMonth": 23,
     "timeYear": 31,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "9.52%",
+    "uptime": "9.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -113,7 +113,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-10": 103,
+      "2025-06-11": 102,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -476,8 +477,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   }
 ]
