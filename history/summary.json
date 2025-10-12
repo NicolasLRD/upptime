@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 79,
-    "timeWeek": 143,
-    "timeMonth": 106,
+    "timeDay": 117,
+    "timeWeek": 148,
+    "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 170,
-    "timeWeek": 247,
-    "timeMonth": 251,
-    "timeYear": 235,
+    "time": 236,
+    "timeDay": 658,
+    "timeWeek": 335,
+    "timeMonth": 264,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -42,14 +42,14 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 377,
-    "timeWeek": 337,
-    "timeMonth": 302,
+    "time": 306,
+    "timeDay": 226,
+    "timeWeek": 315,
+    "timeMonth": 301,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-10-10": 16
@@ -85,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 15,
-    "timeWeek": 19,
+    "timeDay": 24,
+    "timeWeek": 21,
     "timeMonth": 20,
     "timeYear": 28,
     "dailyMinutesDown": {}
@@ -97,7 +97,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "8.90%",
+    "uptime": "8.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-11": 81,
+      "2025-10-12": 88,
+      "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
@@ -471,8 +472,7 @@
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
-      "2024-10-13": 1440,
-      "2024-10-12": 1440
+      "2024-10-13": 1440
     }
   }
 ]
