@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 79,
-    "timeWeek": 82,
-    "timeMonth": 109,
-    "timeYear": 142,
+    "time": 133,
+    "timeDay": 846,
+    "timeWeek": 192,
+    "timeMonth": 131,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 80,
-    "timeWeek": 168,
-    "timeMonth": 191,
-    "timeYear": 221,
+    "time": 234,
+    "timeDay": 337,
+    "timeWeek": 194,
+    "timeMonth": 183,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 424,
-    "timeWeek": 337,
-    "timeMonth": 287,
+    "timeDay": 318,
+    "timeWeek": 317,
+    "timeMonth": 286,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2025-10-10": 16
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 41,
-    "timeDay": 11,
-    "timeWeek": 23,
-    "timeMonth": 24,
-    "timeYear": 47,
+    "time": 45,
+    "timeDay": 1649,
+    "timeWeek": 256,
+    "timeMonth": 77,
+    "timeYear": 52,
     "dailyMinutesDown": {}
   },
   {
@@ -97,7 +97,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "8.68%",
+    "uptime": "8.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 98,
+      "2025-11-29": 97,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -471,8 +472,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   }
 ]
